@@ -10,4 +10,14 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Marie%2527s Surface\source\repos\HtmlMeSomething\HtmlMeSomething\wwwroot\images\fushimi-inari-kyoto.jpg" />
+    <None Include="..\..\..\..\..\Marie%2527s Surface\source\repos\HtmlMeSomething\HtmlMeSomething\wwwroot\images\fushimi-inari-kyoto2.jpg" />
+    <None Include="..\..\..\..\..\Marie%2527s Surface\source\repos\HtmlMeSomething\HtmlMeSomething\wwwroot\images\macchahouse.jpg" />
+    <None Include="..\..\..\..\..\Marie%2527s Surface\source\repos\HtmlMeSomething\HtmlMeSomething\wwwroot\images\marie-bamboo.jpg" />
+    <None Include="..\..\..\..\..\Marie%2527s Surface\source\repos\HtmlMeSomething\HtmlMeSomething\wwwroot\images\osaka-castle.jpg" />
+    <None Include="..\..\..\..\..\Marie%2527s Surface\source\repos\HtmlMeSomething\HtmlMeSomething\wwwroot\images\osaka-sushi.jpg" />
+    <None Include="..\..\..\..\..\Marie%2527s Surface\source\repos\HtmlMeSomething\HtmlMeSomething\wwwroot\images\sake-tokyo.jpg" />
+  </ItemGroup>
+
 </Project>
