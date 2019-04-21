@@ -1,0 +1,68 @@
+﻿main {
+    padding: 15px 35px;
+    font-size: 16px;
+    background-color: #F4F0E5;
+}
+
+.siteHeader {
+    background-color: #C3E6D4;
+    border-bottom: #E1918E 15px solid;
+    color: #F4F0E5;
+    padding: 35px;
+}
+
+#siteTitle {
+    margin-bottom: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+#siteTitle small {
+    font-size:26px;
+}
+
+nav {
+    font-family: 'Lato', sans-serif;
+}
+
+nav a:link, nav a:visited{
+    color: #F4F0E5;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #E1918E;
+    text-decoration: underline;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #E15E6E;
+    font-family: 'Indie Flower', cursive;
+   
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+img {
+    padding: 8px; 
+    border: solid 15px #C3E6D4;
+    background: #E1918E;
+}
+
+footer {
+    padding: 7px 15px;
+    font-style: italic;
+
+}
